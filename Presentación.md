@@ -3,6 +3,7 @@ marp:  true
 author: EquipoH
 size: 16:9 
 theme: gaia
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 # Introducción a Markdown
 ![bg right:50% w:500](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
